@@ -1,9 +1,1 @@
-<<<<<<< HEAD
 Namun, hal ini menjadi celah kejahatan yang dimanfaatkan oleh orang-orang tidak berakhlak.
-Oleh karena itu, mulai diperkenalkan sistem Hero.
-Hero merupakan orang-orang yang bertarung melawan kejahatan.
-
-Di buku ini akan diceritakan kisah bagaimana seorang anak bernama Midoriya Izuku menjadi Hero terhebat sepanjang masa.
-=======
-Namun, hal ini menjadi celah kejahatan yang dimanfaatkan oleh orang-orang tidak berakhlak.
->>>>>>> parent of 834c42b (Add hero concept for ch. 3)
